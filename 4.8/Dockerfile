@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:bullseye-20221004-slim
 
 ## Installing Node.js
 ENV NODE_ENV production
